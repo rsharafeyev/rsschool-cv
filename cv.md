@@ -53,3 +53,7 @@ SORM, Billing, etc.).
 **09/2003 - 09/2007** Informatics and computer engineering at Modern
 University for the Humanities, Moscow
 ***
+
+### Language skills
+**English:**	Pre-intermediate\
+**Russian:**	Proficient
