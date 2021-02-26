@@ -48,3 +48,8 @@ I took an active part in the integration of corporate CRM (writing API
 scripts in PHP, Python, JAVA, SQL) with other systems (NAS / BRAS,
 SORM, Billing, etc.).
 ***
+
+### Education
+**09/2003 - 09/2007** Informatics and computer engineering at Modern
+University for the Humanities, Moscow
+***
