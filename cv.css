@@ -1,0 +1,50 @@
+html body div {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  color: rgb(0, 0, 0);
+}
+h3 {
+  color: rgb(16, 128, 240);
+}
+a {
+  color: black;
+}
+a:hover {
+  color: rgb(16, 128, 240);
+}
+.container {
+  width: 70%;
+  margin: 10px auto;
+}
+.photo {
+  float: right;
+  width: 128px;
+  height: 188px;
+  margin: 15px;
+}
+footer {
+  height: 25px;
+  border-top: 1px solid grey;
+  margin-top: 30px;
+  padding-top: 8px;
+  text-align: center;
+  font-weight: bolder;
+}
+.footer-left {
+  width: 30%;
+  float: left;
+}
+.footer-right {
+  width: 30%;
+  float: right;
+}
+.footer-center {
+  width: 30%;
+  margin: 0 auto;
+  border-right: 1px solid grey;
+  border-left: 1px solid grey;
+}
+.rs_school {
+  width: 50%;
+}
